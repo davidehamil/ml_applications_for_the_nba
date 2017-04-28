@@ -1,0 +1,98 @@
+STANDARD (Goldsberry)
+AST	
+BLK	
+DREB	
+FG3A	
+FG3M	
+FG3_PCT	
+FGA	
+FGM	
+FG_PCT	
+FTA	
+FTM	
+FT_PCT	
+GAME_COUNT	
+MIN	
+OREB	
+PF	
+PLUS_MINUS	
+PTS	
+REB	
+STL	
+TEAM_ID	
+TOV	
+VIDEO_AVAILABLE	
+
+
+CALCULATED FROM: STANDARD (Goldsberry)
+AST_mean	
+BLK_mean	
+DREB_mean	
+OREB_mean	
+PF_mean	
+REB_mean	
+STL_mean	
+TOV_mean	
+FG_mean	
+FG3_mean	
+FT_mean	
+FGA_mean	
+FGM_mean	
+FG3A_mean	
+FG3M_mean	
+FTA_mean	
+FTM_mean	
+FG_pct	
+FG3_pct	
+FT_pct
+
+
+ADVANCED/MISC/FOUR FACTORS/SCORING (Goldsberry)
+OFFRTG 		Offensive Rating
+DEFRTG 		Defensive Rating 
+NETRTG 		Net Rating 
+AST% 		Assist Percentage 
+AST/TO 		Assist to Turnover Ratio 
+AST RATIO 	Assist Ratio
+OREB% 		Offensive Rebound Percentage 
+DREB% 		Defensive Rebound Percentage 
+REB% 		Rebound Percentage 
+TOV% 		Turnover Percentage 
+EFG% 		Effective Field Goal Percentage 
+TS% 		True Shooting Percentage 
+PACE 		Pace 
+PIE 		Player Impact Estimate
+PTS OFF TO 	Points off Turnovers 
+2ND PTS 	2nd Chance Points 
+FBPS 		Fast Break Points 
+PITP 		Points in the Paint
+OPP PTS OFF TO 	Opponent Points off Turnovers 
+OPP 2ND PTS 	Opponent's 2nd Chance Points 
+OPP FBPS 	Opponent's Fast Break Points 
+OPP PITP 	Opponent's Points in the Paint
+WIN% 		Win Percentage 
+FTA RATE 	Free Throw Attempt Rate 
+OPP EFG% 	Opponent's Effective Field Goal Percentage 
+OPP FTA RATE 	Opponent's Free Throw Attempted Rate 
+OPP TOV% 	Opponent's Turnover Percentage 
+OPP OREB% 	Opponent's Offensive Rebound Rate
+OPP DREB 	Opponent's Defensive Rebounds
+%FGA 2PT 	Percent of Field Goals Attempted (2 Pointers) 
+%FGA 3PT 	Percent of Field Goals Attempted (3 Pointers) 
+%PTS 2PT 	Percent of Points (2 Pointers) 
+%PTS 2PT-MR 	Percent of Points (Mid-Range) 
+%PTS 3PT 	Percent of Points (3 Pointers) 
+%PTS FBPS 	Percent of Points (Fast Break Points) 
+%PTS FT 	Percent of Points (Free Throws) 
+%PTS OFFTO 	Percent of Points (Off Turnovers) 
+%PTS PITP 	Percent of Points (Points in the Paint) 
+2FGM %AST 	Percent of 2 Point Field Goals Made Assisted 
+2FGM %UAST 	Percent of 2 Point Field Goals Made Unassisted 
+3FGM %AST 	Percent of 3 Point Field Goals Made Assisted 
+3FGM %UAST 	Percent of 3 Point Field Goals Made Unssisted 
+FGM %AST 	Percent of Point Field Goals Made Assisted 
+FGM %UAST 	Percent of Point Field Goals Made Unssisted
+
+
+ADVANCED (ex-Goldsberry)
+ELO Scores
